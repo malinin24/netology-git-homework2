@@ -1,0 +1,12 @@
+# tmp folder
+tmp/
+
+# old and backup files
+*_old
+*_backup
+
+# Thumbs.db
+Thumbs.db
+
+# .DS_Store
+.DS_Store
